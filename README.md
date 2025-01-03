@@ -1,8 +1,8 @@
-# 💫 About Me:
+# ✋ A bit about Me:
 🧑🏽‍🎓 MS Finance candidate at the University of the Philippines Diliman<br>🧑🏽‍💻 Analytics Engineer at Zeller Australia<br>🤝 Looking to connect with Data Professionals<br>💭 Currently learning about Data Engineering and Data Science<br>🚴🏽 Weekend cycling warrior
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jomarmartinezjordas2010) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jomarmjordas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jomarmartinezjordas) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jomarjordas) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jojocycle4115) 
 
 # 💻 Tech Stack:

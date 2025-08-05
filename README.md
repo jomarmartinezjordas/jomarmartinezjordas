@@ -1,5 +1,5 @@
 # ✋ A bit about Me:
-🧑🏽‍🎓 MS Finance candidate at the University of the Philippines Diliman<br>🧑🏽‍💻 Analytics Engineer at Zeller Australia<br>🤝 Looking to connect with Data Professionals<br>💭 Currently learning about Data Engineering and Data Science<br>🚴🏽 Weekend cycling warrior
+🧑🏽‍💻 Analytics Engineer at Zeller Australia<br>💭 Currently learning about Data Engineering and Data Science<br>🤝 Looking to connect with Data Professionals<br>🧑🏽‍🎓 MSc in Finance graduate from the University of the Philippines Diliman<br>💭 Currently learning about Data Engineering and Data Science<br>🚴🏽 Weekend cycling warrior
 
 
 # 🌐 Socials:
